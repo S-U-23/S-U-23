@@ -1,5 +1,7 @@
 # 💫 About Me:
-I like coding practing test debugging make projects im very hard working determined and constantly looking to improve and gain knowlege <br>
+I’m a Computer Science undergraduate at the University of Westminster, steadily building my skills in programming and web development. I have a strong grasp of Python, HTML, and CSS, which form the core of my coding foundation. I have recently learned Java and JavaScript, expanding my knowledge across both front-end and back-end technologies.
+
+My goal is to become a full stack developer, as I’m passionate about continuously learning and applying new skills. I’m excited to grow as a developer and take on real-world projects throughout my studies.<br>
 
 
 ## 🌐 Socials:
